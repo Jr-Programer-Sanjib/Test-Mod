@@ -5,7 +5,11 @@ To install the required Python packages, you can use pip. First, navigate to the
 ```bash
 npm install -g expo-cli
 
+```
 ```bash
 expo doctor --fix-dependencies
+```
 
-
+```bash
+npm start
+```
